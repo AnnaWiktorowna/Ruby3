@@ -6,6 +6,6 @@ puts "========="
 	puts x
 end
 puts "========="
-("cde"..."fff").each do |x|
+("cde"..."fff").each do |x| # wywodit na odin simwol menshe "..."
 	puts x
 end
